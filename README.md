@@ -1,1 +1,1 @@
-# World DEvelopment Performance Index
+# World Development Performance Index
