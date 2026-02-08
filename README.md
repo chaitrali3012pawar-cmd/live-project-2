@@ -98,5 +98,5 @@ git init
 git add .
 git commit -m "Added World Bank Development Indicators analysis project"
 git branch -M main
-git remote add origin https://github.com/yourusername/World-Bank-Development-Indicators-Analysis.git
+git remote add origin https://github.com/chaitrali3012pawar-cmd/My_project.git
 git push -u origin main
